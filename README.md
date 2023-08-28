@@ -38,23 +38,23 @@ ___
 
 #### - How to Run the Backend
 ```bash
-# No BackEnd insira uma porta e um secret no arquivo .env vazio
+# In the BackEnd insert a port and a secret in the empty .env file
   AUTH_SECRET=
   PORT=
 
-# Instale as dependências necessárias
+# Install the necessary dependencies
 $ npm install
 
-# Agora inicie o servidor do BackEnd
+# Now start the BackEnd server
 $ npm run dev
 ```
 #### - How to Run the Frontend
 ```bash
 
-# Instale as dependências necessárias
+# Install the necessary dependencies
 $ npm install
 
-# Agora inicie o servidor do BackEnd
+# Now start the BackEnd server
 $ npm run dev
 ```
 
