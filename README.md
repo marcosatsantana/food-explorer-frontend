@@ -1,33 +1,31 @@
-﻿<p align="center">
-  <h1 align="center"><a href="https://food-explorer-fe.netlify.app/">🍴 Food Explorer - Rocketseat 🍴</a></h1>
-</p>
+<h1 align="center"><a href="https://food-explorer-fe.netlify.app/">Food Explorer - Rocketseat</a></h1>
 
 ![Imagem do WhatsApp de 2023-06-15 à(s) 01 11 24](https://raw.githubusercontent.com/marcosatsantana/food-explorer-frontend/main/screencapture.png)
 
 
-## 📝 Sobre
+<p align="center">
+## 📝 About
 
-O Food Explorer é uma plataforma web abrangente para um restaurante, oferecendo aos usuários uma experiência completa de pedido e acompanhamento. Com recursos de cadastro, criação de pedidos e acompanhamento de status, os usuários podem facilmente realizar e controlar suas escolhas. A personalização do perfil, a filtragem de favoritos e a busca ajudam a tornar a experiência mais conveniente e personalizada para cada usuário.
+Food Explorer is a comprehensive web platform for a restaurant, providing users with a complete ordering and tracking experience. With features for registration, order creation, and status tracking, users can easily make and monitor their choices. Profile customization, favorite filtering, and search functions help enhance the convenience and personalization of the experience for each user.
 
-O carrinho de compras totalmente funcional permite que os usuários selecionem os itens desejados e escolham entre duas formas de pagamento: cartão ou Pix. 
-Essa flexibilidade torna mais conveniente para os clientes efetuarem seus pagamentos.
+The fully functional shopping cart enables users to select desired items and choose between two payment methods: card or Pix (a popular Brazilian electronic payment method). This flexibility makes it more convenient for customers to make payments.
 
-O papel do Administrador é importante para a plataforma, pois ele tem a capacidade de gerenciar o menu do restaurante, adicionando, editando e removendo pratos conforme necessário. Além disso, o administrador pode alterar o status dos pedidos para refletir o processo de preparo na cozinha, e essas atualizações são imediatamente visíveis para os consumidores.
+The Administrator role is crucial for the platform, as they have the ability to manage the restaurant's menu by adding, editing, and removing dishes as needed. Additionally, the administrator can update order statuses to reflect the kitchen's preparation process, and these updates are immediately visible to consumers.
 
-O projeto também inclui recursos adicionais, como a opção de alterar o tema da página, permitindo que os usuários personalizem a aparência da plataforma de acordo com suas preferências. E Além disso, a personalização do perfil do usuário, incluindo imagem, nome e senha, permite uma experiência mais individualizada.
+The project also includes additional features such as the option to change the page theme, allowing users to customize the platform's appearance according to their preferences. Furthermore, user profile personalization, including image, name, and password, enables a more individualized experience.
 
-O projeto apresenta diversos efeitos visuais, o que pode tornar a plataforma mais atraente e envolvente para os usuários.
+The project showcases various visual effects, which can make the platform more appealing and engaging for users.
 
-Por fim, a adaptação responsiva do Food Explorer para diferentes tipos de dispositivos é uma característica importante, pois permite que os usuários acessem e usem a plataforma de maneira conveniente em smartphones, tablets e computadores.
+Finally, Food Explorer's responsive adaptation to different types of devices is a crucial feature, allowing users to conveniently access and use the platform on smartphones, tablets, and computers.
 
-No geral, o Food Explorer é uma plataforma web abrangente e bem projetada, proporcionando aos usuários uma experiência completa de pedido, acompanhamento e personalização.</p>
+Overall, Food Explorer is a comprehensive and well-designed web platform, providing users with a complete experience of ordering, tracking, and customization.</p>
 </br>
 
 ___
 
-## ✅ Como utilizar
+## ✅ How to use
 
-Clone o projeto para o seu computador.
+Clone the project to your computer.
 
 ```Frontend
 $ git clone git@github.com:marcosatsantana/food-explorer-frontend.git
@@ -38,7 +36,7 @@ $ git clone git@github.com:marcosatsantana/food-explorer-backend.git
 ```
 ___ 
 
-#### - Como executar o Backend
+#### - How to Run the Backend
 ```bash
 # No BackEnd insira uma porta e um secret no arquivo .env vazio
   AUTH_SECRET=
@@ -50,7 +48,7 @@ $ npm install
 # Agora inicie o servidor do BackEnd
 $ npm run dev
 ```
-#### - Como executar o Frontend
+#### - How to Run the Frontend
 ```bash
 
 # Instale as dependências necessárias
@@ -60,14 +58,11 @@ $ npm install
 $ npm run dev
 ```
 
-🔑 Para realizar o teste pelo Admin utilize a conta a seguir: </br>
+To test the Admin functionality, use the following account: </br>
 
 e-mail: a@email.com </br>
 senha: 123123
 
 ___
 
-O backend foi hospedado diretamente no Render, um serviço de hospedagem gratuita. 
-É importante ressaltar que para que o front-end funcione perfeitamente, é necessário que o servidor de backend esteja respondendo e funcionando corretamente.
-
-⚠ OBS: É importante relatar que por estar hospedado em um serviço gratuito, o back-end entra em estado de hibernação após 15 minutos sem utilização e por isso pode ocorrer de demorar até 1 minuto, dependendo da carga nos servidores do Render.
+⚠ The backend has been hosted directly on Render, a free hosting service. It's important to note that for the frontend to work perfectly, the backend server must be responsive and functioning correctly.
