@@ -4,8 +4,7 @@
 
 
 <p align="center">
-___
-## 🚀 About
+# About
 
 Food Explorer is a comprehensive web platform for a restaurant, providing users with a complete ordering and tracking experience. With features for registration, order creation, and status tracking, users can easily make and monitor their choices. Profile customization, favorite filtering, and search functions help enhance the convenience and personalization of the experience for each user.
 
